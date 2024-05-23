@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Lucasroseira1 i'm 17 years old
-- 👀 I’m interested in tecnology and fashion
-- 🌱 I’m currently learning c and c#
+- 👋 Hi, I’m @Lucasroseira1 i'm 19 years old
+- 🌱 I’m currently learning Java
 - 📫 How to reach me: lucasroseira976@gmail.com
 
 <!---
